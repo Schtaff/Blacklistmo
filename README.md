@@ -1,14 +1,6 @@
-# Blacklistmo
-asdgsfdfa
-afsfascxvv
-asdasgadfaa
-asfsadasdas
-fasfsafsa
-fsa
-fsaf
-asf
-asf
-af
-asf
-as
-fafas
+# Blacklist
+ЧС МО:
+Hulio Schtaff 
+Send Arabov
+Lucifer Bondy
+Tommy Vesalco
